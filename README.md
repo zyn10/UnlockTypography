@@ -37,7 +37,7 @@ In typography, a slab serif typeface is a type of serif typeface characterized b
 <img width="265" alt="Aptifer" src="https://user-images.githubusercontent.com/95617382/207132268-90c56a41-f8b6-4239-9115-f9b4eb87276b.png">
 
 
-2: Fonts and Emotions
+<h1>2: Fonts and Emotions</h1>
 Serif
 	90% 
     * Official Statement
@@ -100,7 +100,7 @@ Slab-serif
     * Expressive	
 
 
-3: How to Choose Fonts for your Design?
+<h1>3: How to Choose Fonts for your Design?</h1>
 
 * Always use the professional font
 * Identify the audience then go for the font
@@ -109,7 +109,7 @@ Slab-serif
 Professional font: The font with all family i.e italic, thin, regular, bold, ultra-thin, extra bold, etc.
 
 
-4: Font Pairing like a pro
+<h1>4: Font Pairing like a pro</h1>
 
 Powers of each element
 - Heading 
@@ -132,7 +132,7 @@ Powers of each element
 * Use the Contrast principle as well.
 
 
-5: Typography and Brand Connection
+<h1>5: Typography and Brand Connection</h1>
 
 3 types of clients
 - Well established client
@@ -154,20 +154,20 @@ Powers of each element
 * Fix Design fonts
 
 
-5: Typography Poster
+<h1>5: Typography Poster</h1>
 
 * Use characters behind the scene to remove n- space.
 * Make interlocking points
 * Design breakdown
 * Decode words
 
-6: Professional Poster
+<h1>6: Professional Poster</h1>
 
 * Make leading lines
 * Play with psychology
 * We can use the proximity principle in a sense as well. 
 
-7: Resources
+<h1>7: Resources</h1>
 
 https://freedesignresources.net/
 https://www.youworkforthem.com/ [paid] find here

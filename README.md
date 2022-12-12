@@ -38,7 +38,7 @@ In typography, a slab serif typeface is a type of serif typeface characterized b
 
 
 <h1>2: Fonts and Emotions</h1>
-Serif
+<h2>Serif</h2>
 	90% 
     * Official Statement
     * Seriousness
@@ -51,7 +51,7 @@ Serif
     * Elegance 
     * Luxury
 
-Sans-serif
+<h2>Sanserif</h2>
 	90%
     * Emotionless font
     * Use where people have different perceptions
@@ -69,7 +69,7 @@ Sans-serif
 
 	Note: Only 4 family fonts of sans-serif behind regular-font are used to show mentioned classes.
 
-Script(softness) 
+<h2>Script</h2>
 
     * Softness 
     * Love
@@ -80,7 +80,7 @@ Script(softness)
     * Kiss
 	Note: We can use here the combination of serif and script to make a more luxurious look.
 
-Display or Decorative
+<h2>Display or Decorative</h2>
 
     * Hard (like a gym)
     * speed
@@ -92,8 +92,7 @@ Display or Decorative
     * Intelligence
 	 Note: Italic Extra bold or Black of  San serif font can also be used here.
 
-Slab-serif
-
+<h2>Slab-serif</h2>
     * not more serious not more casual
     * Bold
     * Strong
@@ -124,54 +123,56 @@ Powers of each element
 	Sub heading 		   Italic
 	Description               Regular [Description]
 
-    * Always take the content output into consideration before deciding on the font combination
-    * Always break the heading into 2 words
-    * Make a 125-degree angle for the heading
-    * Have auto space in professional family else caps words 7 pts
-    * Make an angle of 45 degrees in the description
-* Use the Contrast principle as well.
+    <br>Always take the content output into consideration before deciding on the font combination
+    <br>Always break the heading into 2 words
+   <br>Make a 125-degree angle for the heading
+    <br>Have auto space in professional family else caps words 7 pts
+    <br>Make an angle of 45 degrees in the description
+<br>Use the Contrast principle as well.
 
 
 <h1>5: Typography and Brand Connection</h1>
 
 3 types of clients
-- Well established client
-- Startup
-- Scratch
+<br>Well established client
+<br>Startup
+<br>Scratch
 
 1: Known brands
-* They have always their brand brief.
-*  They have fixed fonts. 
-* If you want to change take approval.
-* Always experiment with design for well-established clients, not with their fonts
+<br>They have always their brand brief.
+<br>They have fixed fonts. 
+<br>If you want to change take approval.
+<br>Always experiment with design for well-established clients, not with their fonts
 
 2: Startup clients 
-* Fix their typography issues. And make designs with the same typography
+<br>Fix their typography issues. And make designs with the same typography
 
 3: Scratch Brands
-* Fix their issues regarding don’t
-* Don’t use logo font in designs
-* Fix Design fonts
+<br>Fix their issues regarding don’t
+<br>Don’t use logo font in designs
+<br>Fix Design fonts
 
 
-<h1>5: Typography Poster</h1>
+<h1>6: Typography Poster</h1>
 
-* Use characters behind the scene to remove n- space.
-* Make interlocking points
-* Design breakdown
-* Decode words
+<br>Use characters behind the scene to remove n- space.
+<br>Make interlocking points<br>Design breakdown
+<br>Decode words
 
-<h1>6: Professional Poster</h1>
+<h1>7: Professional Poster</h1>
 
-* Make leading lines
-* Play with psychology
-* We can use the proximity principle in a sense as well. 
+Make leading lines<<br>Play with psychology<br>We can use the proximity principle in a sense as well. 
 
-<h1>7: Resources</h1>
+<h1>8: Resources</h1>
 
-https://freedesignresources.net/
-https://www.youworkforthem.com/ [paid] find here
-https://graphicex.com/ [make available ] download here
-Note: Download only. zippy share file that is complete
-https://www.gfxtra31.com/index.php?action=mobiledisable
-Everything available here
+https://freedesignresources.net/<br>
+https://www.youworkforthem.com/ [paid] find here<br>
+https://graphicex.com/ [make available ] download here<br>
+Note: Download only. zippy share file that is complete<br>
+https://www.gfxtra31.com/index.php?action=mobiledisable<br>
+Everything available here<br>
+
+
+
+
+Find Mistakes in Slides :-)

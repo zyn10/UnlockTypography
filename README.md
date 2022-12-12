@@ -1,6 +1,4 @@
-# UnlockTypography
-<h1>Typography Course Notes</h1>
-
+<h1>UnlockTypography</h1>
 Mystery
 
 <h1>Types of Fonts</h1>
@@ -11,32 +9,31 @@ Mystery
 4. Display or Decorative
 5. Slab-serif
 
-<h1>
-1: How to Identify Fonts?
-</h1>
-Serif
-Serif fonts are typefaces that have serifs, which are extra strokes on the ends of their letterforms.
+<h1>1: How to Identify Fonts?</h1>
+
+<h2>Serif</h2>
+Serif fonts are typefaces that have serifs, which are extra strokes on the ends of their letterforms.<br>
 <img width="193" alt="Screenshot 2022-06-23 at 6 19 00 AM" src="https://user-images.githubusercontent.com/95617382/207131786-a5083768-4c81-4198-81df-6f52a9ed7900.png">
 
-Sanserif
-A sans serif font is basically any font that doesn't have little dashes at the end of each letter
+<h2>Sanserif</h2>
+A sans serif font is basically any font that doesn't have little dashes at the end of each letter<br>
 <img width="193" alt="Screenshot 2022-06-23 at 6 19 59 AM" src="https://user-images.githubusercontent.com/95617382/207131815-f15a0afd-58ce-4747-9174-41ad7323e999.png">
 
-Script
-A script font is a classification of fonts designed to resemble traditional cursive handwriting
+<h2>Script</h2>
+A script font is a classification of fonts designed to resemble traditional cursive handwriting<br>
 <img width="277" alt="Screenshot 2022-06-23 at 6 23 42 AM" src="https://user-images.githubusercontent.com/95617382/207131883-d561df9e-f048-4ca6-ac36-0481affffc05.png">
 
 
-Display or Decorative
-Also referred to as display type, decorative fonts are typically used for titles and headlines or for small amounts of text in large sizes such as in greeting cards or posters.
-<img width="558" alt="Screenshot 2022-06-23 at 6 25 38 AM" src="https://user-images.githubusercontent.com/95617382/207132105-f2a580d4-2fe0-45eb-b74c-46b913acea69.png">
+<h2>Display or Decorative</h2>
+Also referred to as display type, decorative fonts are typically used for titles and headlines or for small amounts of text in large sizes such as in greeting cards or posters.<br>
+<img width="558" alt="Screenshot 2022-06-23 at 6 25 38 AM" src="https://user-images.githubusercontent.com/95617382/207132105-f2a580d4-2fe0-45eb-b74c-46b913acea69.png"><br>
 <img width="391" alt="Blackletter" src="https://user-images.githubusercontent.com/95617382/207132136-16f5fa08-5cc9-488c-850a-5ce97e02ac52.png">
+<br>
 
-
-
-Slab-serif
+<h2>Slab-serif</h2>
 In typography, a slab serif typeface is a type of serif typeface characterized by thick, block-like serifs. Serif terminals may be either blunt and angular or rounded.
-<img width="515" alt="Slab Serif" src="https://user-images.githubusercontent.com/95617382/207132253-42dd3561-1fd0-45c8-95bf-450b0be0ade4.png">
+<br>
+<img width="515" alt="Slab Serif" src="https://user-images.githubusercontent.com/95617382/207132253-42dd3561-1fd0-45c8-95bf-450b0be0ade4.png"><br>
 <img width="265" alt="Aptifer" src="https://user-images.githubusercontent.com/95617382/207132268-90c56a41-f8b6-4239-9115-f9b4eb87276b.png">
 
 
